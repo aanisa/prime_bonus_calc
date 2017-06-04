@@ -1,6 +1,7 @@
-# Bonus Calculator App
+# Prime Digital Academy - Code Challenge 
 
-You are going to write a single JavaScript file to automatically calculate employee bonus for a company.
+## Goal:
+Write a single JavaScript file to automatically calculate employee bonus for a company.
 
 ## Data Structure
 
